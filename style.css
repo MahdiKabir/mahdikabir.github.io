@@ -4,8 +4,8 @@ html, body {
 }
 
 .main{
-	background-color: #f9f9f6;
-	/*background: url('img/background.jpg');*/
+	/*background-color: #f9f9f6;*/
+	background: url('img/background.jpg');
 	background-size: cover;
 	background-position: center;
 	height: 100%;
